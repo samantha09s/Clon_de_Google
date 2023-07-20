@@ -15,4 +15,4 @@ Se construyó una interfaz idéntica a la Google actualmente, la cual estuvo div
 3. Sección Footer
 
 ## Objetivos 
-// Apredizaje // Práctica // Introducción a HTML y CSS así como sus elementos y propiedades // Brinda habilidades esenciales para el desarrollo web // Capacidad para resolver problemas y fomenta la creatividad.
+// Apredizaje // Práctica // Introducción a HTML y CSS así como sus elementos y propiedades // Brinda habilidades esenciales para el desarrollo web // Capacidad para resolver problemas // Fomenta la creatividad.
