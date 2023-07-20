@@ -1,0 +1,190 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 13;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/**********************************************/
+/****************************************/
+/********************************/
+/* Navegación */
+
+header{
+    width: 100%;
+    height: 60%;
+}
+
+header nav{
+    display: flex;
+    justify-content: flex-end;
+}
+
+header nav .nav-right-section{
+    width: 250x;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+nav .nav-right-section a{
+    color: rgb(21, 21, 21);
+    margin-right: 20px 
+}
+
+nav .nav-right-section .menu{
+    background-image: url(https://img.icons8.com/ios-glyphs/90/000000/circled-menu.png);
+    width: 20px;
+    height: 20px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+nav .nav-right-section img{
+    border-radius: 40px;
+    margin-left: 20px;
+    width: 35px;
+}
+
+/**********************************************/
+/****************************************/
+/********************************/
+/* Mail */
+
+main{
+    margin-top: 30px;
+    text-align: center;
+}
+
+main .main-logo{
+    width: 350px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+
+main .main-logo img{
+    width: 310px;
+    height: 110px;
+}
+
+main .main-input{
+    width: 530px;
+    margin: 0 auto;
+    margin-bottom: 35px;
+}
+
+main .main-input-container{
+    border: 1px solid #dfe1e5;
+    border-radius: 100px;
+    width: 530px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main .main-input input{
+    height: 40px;
+    border: none;
+    outline: none;
+    width: 500px;
+}
+
+main .main-input-container:hover {
+    box-shadow: 0 1px 6px 0 #20212447;
+}
+
+main .main-input .search-icon { 
+    background-image: url("https://img.icons8.com/android/24/000000/search.png"); 
+    width: 18px; 
+    height: 18px; 
+    padding-left: 25px; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    background-size: contain; 
+}
+
+main .main-input .main-input-container .micro-icon{ 
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Google_mic.svg/726px-Google_mic.svg.png"); 
+    width: 18px; 
+    height: 18px; 
+    padding-left: 20px; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    background-size: contain; 
+} 
+ 
+main .main-input .cam-icon { 
+    background-image: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQU9EB56qp8B5qgt89OtkGpN86KFafBM7cBixk1nXOs7ukEVbJE"); 
+    width: 20px; 
+    height: 20px; 
+    padding-left: 30px; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    background-size: contain; 
+}
+
+main .main-buttons{
+    width: 550px;
+    margin: 0 auto;
+}
+
+main .main-buttons div{
+    display: inline-block;
+}
+
+main .main-buttons button{
+    background-color: #f8f9fa;
+    border: none;
+    height: 30px;
+    font-size: 15px;
+    color: #3c4043;
+    padding: 0px 15px;
+    border-radius: 4px;
+    margin-right: 10px;
+}
+
+main .main-buttons button:hover{
+    color: #202124;
+    border: 1px solid #dadce0;
+    box-shadow: 0 1px #20212447;
+}
+
+footer{
+    width: 100%;
+    height: 50px;
+    background-color: #f2f2f2;
+    position: absolute;
+    bottom: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    font-size: 15px;
+    border-top: 1px solid #e4e4e4;
+}
+
+footer ul{
+    margin: 10px;
+    list-style: none;
+    display: flex;
+    padding-left: 0;
+}
+
+footer .fotter-left{
+    justify-self: left;
+
+}
+
+footer .fotter-right{
+    justify-self: right;
+}
+
+footer ul li a{
+    margin: 10px;
+    color: #5f6368;
+}
+
