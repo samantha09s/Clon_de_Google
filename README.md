@@ -15,6 +15,4 @@ Se construyó una interfaz idéntica a la Google actualmente, la cual estuvo div
 3. Sección Footer
 
 ## Objetivos 
-// Apredizaje // Práctica // Introducción a HTML y CSS así como sus elementos y propiedades // Brinda habilidades esenciales para el desarrollo web // Capacidad para resolver problemas // Fomenta la creatividad.
-
-![Google](https://github.com/samantha09s/Clon_de_Google/assets/140031528/9be0cff0-3a7d-4b18-bef1-15aec8c5a04f)
+// Apredizaje // Práctica// Introducción a HTML y CSS así como sus elementos y propiedades // Brinda habilidades esenciales para el desarrollo web // Capacidad para resolver problemas // Fomenta la creatividad //
