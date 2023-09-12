@@ -1,20 +1,25 @@
 # Clon_de_Google
-Clonación de interfaz de Google utilizando HTML &amp;&amp; CSS.
 
-## ¡Introducción!
-Este proyecto consistió en una práctica realizada en el summer camp de Tecnolochicas Pro, donde se analizaron los componentes de Google y se replicaron a través de tecnologías como HTML y CSS.
+## Introducción
+Este proyecto fue realizado durante el summer camp de Tecnolochicas Pro, donde exploramos los componentes de Google y replicamos su interfaz utilizando HTML y CSS.
 
-// ¿Por qué utilizaron HTML y CSS en vez de otra cosa? // 
-Utilizar HTML y CSS nos ayudo a desarrollar la clonación de interfaz de una manera atractiva y funcional. Al aprovechar sus ventajas se logro crear una experiencia visual sobre cómo crear una clonación actualmente de Google.
+### Elección de HTML y CSS
+Optamos por utilizar HTML y CSS debido a su capacidad para crear una experiencia visual atractiva y funcional. Estas tecnologías nos permitieron desarrollar una clonación precisa de la interfaz de Google y aprender cómo se crea.
 
-## ¿Qué construí?
-Se construyó una interfaz idéntica a la Google actualmente, la cual estuvo divida en 3 secciones de HTML principales: 
+## Lo que construimos
+Construimos una interfaz idéntica a la de Google actual, dividiéndola en tres secciones principales de HTML:
 
 1. Sección Header
 2. Sección Main
 3. Sección Footer
 
-## Objetivos 
-// Apredizaje // Práctica // Introducción a HTML y CSS así como sus elementos y propiedades // Brinda habilidades esenciales para el desarrollo web // Capacidad para resolver problemas // Fomenta la creatividad //
+## Objetivos
+Los objetivos de este proyecto incluyen:
 
-![Google 02](https://github.com/samantha09s/Clon_de_Google/assets/140031528/1d96a21c-c854-4898-b2b6-d5ff4635f918)
+- Aprendizaje de HTML y CSS.
+- Práctica y dominio de los elementos y propiedades de HTML y CSS.
+- Adquisición de habilidades esenciales para el desarrollo web.
+- Capacidad para resolver problemas relacionados con la interfaz de usuario.
+- Fomento de la creatividad en el diseño y la implementación.
+
+![Captura de Pantalla](https://github.com/samantha09s/Clon_de_Google/assets/140031528/1d96a21c-c854-4898-b2b6-d5ff4635f918)
